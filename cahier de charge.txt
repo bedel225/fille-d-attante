@@ -1,0 +1,21 @@
+un programme qui va demander les informations de differente person (nom prenom et numero de phone)
+apres on doit retrouver les personne juste avec leur numero de phone 
+meme quand on redemare l'ordinateur.
+
+objectif atteints:
+_enregistrer un client
+_comparer des chaine
+_retrouver une chaine dans un fichier 
+_utiliser une struct pour les info d'un client 
+_afficher les information de la personne dont le numero a ete trouve dans le fichier 
+_actualiser la liste d'attente.
+_creer un menu
+
+
+OBJECTIF EN VUE:
+_pourquoi pas un tableau de structures client 
+_empecher la repetition des numero des client 
+_generer un numero automatiquement pour chaque client 
+
+
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1660335359 c:\users\abdou\onedrive\documents\c\cours\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1614757948 c:\users\abdou\onedrive\documents\c\cours\des.c
+	<stdio.h>
+	<stdlib.h>
+	"des.h"
+
+1614758877 c:\users\abdou\onedrive\documents\c\cours\des.h
+

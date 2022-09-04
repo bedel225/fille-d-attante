@@ -1,0 +1,23 @@
+void depart(FILE* fichier, char* str1)
+{
+char str2[100];
+fichier = fopen("depart.txt", "w+");
+if (fichier != NULL)
+    {
+        while (fgets(str2, strlen(str1)+1, fichier)!=NULL)
+      {
+	if (j!=1)
+	{
+        compaChaine(str1,str2);//la fonction pour comparer les chaine
+        fprintf(fichier,"\n%s",str2);
+	k=ftell(fichier);
+	}
+      }
+
+    fclose(fichier);
+    }
+else
+    {
+    printf("erreur");
+    }
+}
